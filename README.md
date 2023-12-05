@@ -6,7 +6,7 @@ Full-stack developer
 
 * 🌍  I'm based in Zagreb, Croatia
 * 🖥️  See my portfolio at [mkinkela1.github.io](http://mkinkela1.github.io/)
-* 🚀  I'm currently working at [Reev](http://reev.com)
+* 🚀  I'm currently working at [Reactor studio](https://www.reactor.studio/) / [Kiwi.com](https://www.kiwi.com/)
 
 ### Skills
 
